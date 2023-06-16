@@ -1,0 +1,5 @@
+- Hi 👋, I'm Eduardo, a back-end developer from Portugal
+- 👀 My main interests are back-end development and CI/CD pipelines
+- 🔭 Working on [**Monolitt**](https://github.com/borisdvlpr/monolitt) right now
+- 🌱 Currently focused on **Github Actions, Containerization and Rust**
+- 🤝 Open for collaborations, just send me a message!
